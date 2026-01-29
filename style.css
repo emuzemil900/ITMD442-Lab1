@@ -6,7 +6,7 @@ h1 {
     float: left;
 }
 
-nav {
+nav ul {
     display: flex;
     flex-direction: row;
     float: right;
