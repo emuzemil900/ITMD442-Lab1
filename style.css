@@ -12,6 +12,7 @@ h1 {
 }
 
 nav ul {
+    list-style-type: none;
     flex-direction: row;
     float: right;
     justify-content: space-evenly;
