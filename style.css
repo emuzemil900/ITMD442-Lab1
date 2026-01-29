@@ -10,4 +10,6 @@ nav {
     display: flex;
     flex-direction: row;
     float: right;
+    justify-content: space-between;
+    padding: 20px
 }
