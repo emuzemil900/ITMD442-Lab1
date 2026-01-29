@@ -11,5 +11,6 @@ nav ul {
     flex-direction: row;
     float: right;
     justify-content: space-between;
+    align-items: center;
     padding: 20px
 }
