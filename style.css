@@ -8,13 +8,9 @@ div {
 
 h1 {
     float: left;
-    flex: 1;
 }
 
 nav ul {
     list-style-type: none;
     float: right;
-    justify-content: space-around;
-    align-items: center;
-    flex: 1;
 }
