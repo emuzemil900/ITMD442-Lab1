@@ -1,6 +1,11 @@
-#flex-section1 ul {
-    list-style-type: none;
-	display: flex;
-	justify-content: space-between;
-	padding: 5px 10px;
+header {
+    width: 100%;
+}
+
+h1 {
+    float: left;
+}
+
+nav {
+    float: right;
 }
