@@ -6,6 +6,11 @@ div {
     display: flex;
 }
 
+.navbar {
+    padding: 10px;
+    text-align: right;
+}
+
 h1 {
     float: left;
 }
