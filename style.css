@@ -2,10 +2,6 @@ header {
     width: 100%;
 }
 
-h1 {
-    float: left;
-}
-
 .navbar {
     padding: 10px;
     text-align: right;
