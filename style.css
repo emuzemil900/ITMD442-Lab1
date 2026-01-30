@@ -2,21 +2,16 @@ header {
     width: 100%;
 }
 
-div {
-    display: flex;
+h1 {
+    float: left;
 }
 
 .navbar {
     padding: 10px;
     text-align: right;
-}
-
-h1 {
-    float: left;
-}
-
-nav ul {
-    list-style-type: none;
-    float: right;
-    flex-direction: row;
-}
+  }
+  
+  .navbar a {
+    padding: 10px;
+    text-decoration: none;
+  }
