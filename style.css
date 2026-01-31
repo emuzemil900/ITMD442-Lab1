@@ -11,7 +11,18 @@ h1 {
     text-align: right;
   }
   
-  .navbar a {
+.navbar a {
     padding: 10px;
     text-decoration: none;
-  }
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+}
+
+.day-card {
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+}
