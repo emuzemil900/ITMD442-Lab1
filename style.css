@@ -25,4 +25,5 @@ h1 {
 .day-card {
     padding: 1rem 1.5 rem;
     border-radius: 8px;
+    text-align: center;
 }
