@@ -18,11 +18,11 @@ h1 {
 
 .grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 1.5rem;
 }
 
 .day-card {
-    padding: 1rem;
+    padding: 1rem 1.5 rem;
     border-radius: 8px;
 }
