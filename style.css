@@ -1,5 +1,16 @@
+body {
+    font-family: 'Orbitron', serif;
+    background: #f3e4f5;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
 header {
     width: 100%;
+    padding: 1.5rem 0;
+    background: #6f2dab;
+    color: white;
 }
 
 h1 {
