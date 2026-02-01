@@ -8,13 +8,16 @@ body {
 
 header {
     width: 100%;
-    padding: 1.5rem 0;
+    box-sizing: border-box;
+    padding: 1.5rem;
     background: #6f2dab;
     color: white;
+    display: flex;
     align-items: baseline;
+    justify-content: space-between;
 }
   
-.navbar a {
+nav a {
     padding: 10px;
     text-decoration: none;
     color: #fff;
