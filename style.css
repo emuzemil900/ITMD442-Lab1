@@ -47,5 +47,8 @@ nav a {
 
 button {
     background: #6f2dab;
+    font-family: 'Orbitron', serif;
     color: white;
+    border: none;
+    cursor: pointer;
 }
