@@ -13,16 +13,6 @@ header {
     color: white;
     align-items: baseline;
 }
-
-h1 {
-    display: flex;
-    float: left;
-}
-
-.navbar {
-    padding: 10px;
-    text-align: right;
-  }
   
 .navbar a {
     padding: 10px;
