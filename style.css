@@ -25,6 +25,7 @@ h1 {
 .navbar a {
     padding: 10px;
     text-decoration: none;
+    color: #fff;
 }
 
 .grid {
